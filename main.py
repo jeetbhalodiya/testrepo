@@ -1,1 +1,2 @@
-print (hello world)
+print ("Hello GitHub")
+print ("This is file created from repository")
